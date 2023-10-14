@@ -13,4 +13,8 @@ Cargo.lock
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 
+<<<<<<< HEAD
 .idea/
+=======
+.idea/
+>>>>>>> 2070067 (not pulled)
